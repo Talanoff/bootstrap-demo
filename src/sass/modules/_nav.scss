@@ -1,0 +1,12 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+
+  &-item {
+    padding: 10px 15px;
+
+    &-link {
+      display: inline-flex;
+    }
+  }
+}
